@@ -32,7 +32,7 @@ export default function GrandOpeningPopup() {
           >
             Grand Opening!
           </h2>
-          <p className="text-xl font-semibold mb-2">January 30, 2025</p>
+          <p className="text-xl font-semibold mb-2">March 3, 2025</p>
           <p className="text-gray-600 mb-6">
             Join us for our grand opening celebration! Special offers and surprises await.
           </p>
