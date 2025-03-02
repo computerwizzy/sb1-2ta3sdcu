@@ -48,7 +48,7 @@ export default function Hero() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-6 text-white max-w-3xl mx-auto px-4">
             <div className="flex items-center justify-center space-x-2 bg-black/30 backdrop-blur-sm p-3 sm:p-4 rounded-lg">
               <Clock className="w-4 sm:w-5 h-4 sm:h-5" />
-              <span className="text-sm sm:text-base">Open until 10 PM</span>
+              <span className="text-sm sm:text-base">Open until 9 PM</span>
             </div>
             <Link
               to="/location"
@@ -64,7 +64,7 @@ export default function Hero() {
                 hover:bg-black/40 transition-colors"
             >
               <Phone className="w-4 sm:w-5 h-4 sm:h-5" />
-              <span className="text-sm sm:text-base">(205) 626-8040</span>
+              <span className="text-sm sm:text-base">(205) 626-8012</span>
             </a>
           </div>
         </div>
